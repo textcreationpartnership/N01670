@@ -117,8 +117,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:0FBA6850378FE468:001984_0000_0FBA499A063533F0"/>
-            <pb facs="tcp:0FBA6850378FE468:001984_0001_0FBA499BD34D2D68"/>
+            <pb facs="unknown:001984_0000_0FBA499A063533F0"/>
+            <pb facs="unknown:001984_0001_0FBA499BD34D2D68"/>
             <p>
                <hi>A CATALOGUE</hi> Of Rare and Valuable BOOKS, Being the greatest part of the Library of the Late Reverend and Learned, Mr. <hi>Joshua Moodey,</hi> And part of the Library of the Reverend &amp; Learned,
 Mr. <hi>Daniel Gookin,</hi> Late of <hi>Sherbourn,</hi> Deceas'd.</p>
@@ -142,7 +142,7 @@ Mr. <hi>Daniel Gookin,</hi> Late of <hi>Sherbourn,</hi> Deceas'd.</p>
                <hi>BOSTON:</hi> Printed by <hi>Samuel Kneeland,</hi> at the lower End of Queen-Street, for <hi>Samuel Gerrish,</hi> near the Old Meeting-House, where <hi>Catalogues</hi> may be had <hi>gratis,</hi> 1718.</p>
          </div>
          <div type="conditions_of_sale">
-            <pb facs="tcp:0FBA6850378FE468:001984_0002_0FBA499D1D7C7E10"/>
+            <pb facs="unknown:001984_0002_0FBA499D1D7C7E10"/>
             <head>The Conditions of the SALE.</head>
             <p n="1">I. THat all Buyers do give in their Names, and Places of Abode, paying also <hi>Five Shillings</hi> in the Pound in part for the Books they shall buy, and so proportionably for lesser Sums; which Money shall be deducted upon the Payment of the rest, and delivery of the Books.</p>
             <p n="2">II. That all Buyers shall be obliged to pay their Money to <hi>Samuel Gerrish</hi> Bookseller, or his Order, for the Books they shall buy, and take their Books away within <hi>Fourteen</hi> Days after the Sale is ended, upon the Forfeiture of <hi>One Shilling</hi> in the Pound, to be paid unto the said <hi>Gerrish</hi> out of the aforesaid Praemium.</p>
@@ -154,7 +154,7 @@ Mr. <hi>Daniel Gookin,</hi> Late of <hi>Sherbourn,</hi> Deceas'd.</p>
       </front>
       <body>
          <div type="list_of_books">
-            <pb n="1" facs="tcp:0FBA6850378FE468:001984_0003_0FBA49A0441E8CD8"/>
+            <pb n="1" facs="unknown:001984_0003_0FBA49A0441E8CD8"/>
             <head>Books in FOLIO.</head>
             <p n="1">1 ANTONII Angellii <hi>Commentarii in Psal<g ref="char:EOLhyphen"/>mos. &amp; Divini Officii Cantica.</hi>
             </p>
@@ -192,7 +192,7 @@ Mr. <hi>Daniel Gookin,</hi> Late of <hi>Sherbourn,</hi> Deceas'd.</p>
             <p n="18">18 <hi>Byfields</hi> Exposition upon the Epistle to the <hi>Colossians</hi> with the Resolution of many chief Cases of Conscience, <hi>(newly Bound.)</hi>
             </p>
             <p n="19">
-               <pb n="2" facs="tcp:0FBA6850378FE468:001984_0004_0FBA49A19269E9B8"/>19 <hi>R. Rogers's</hi> Comment. upon the Book of <hi>Judges.(newly and neatly bound.</hi>
+               <pb n="2" facs="unknown:001984_0004_0FBA49A19269E9B8"/>19 <hi>R. Rogers's</hi> Comment. upon the Book of <hi>Judges.(newly and neatly bound.</hi>
             </p>
             <p n="20">20 Mr. <hi>Thomas Shepard (of Cambridge)</hi> on the Parable of the Ten Virgins. Published by Mr. <hi>J. Mitchel</hi> of <hi>Cambridge,</hi> and Mr. <hi>Shepard of Charlestown.</hi>
             </p>
@@ -234,7 +234,7 @@ Mr. <hi>Daniel Gookin,</hi> Late of <hi>Sherbourn,</hi> Deceas'd.</p>
             </p>
             <p n="41">41 Dr. <hi>Willet's</hi> Synopsis Papismi: Or, General View of the Papistry, with the Life of the Author.</p>
             <p n="42">
-               <pb n="3" facs="tcp:0FBA6850378FE468:001984_0005_0FBA49A3DD0F25E0"/>42 <hi>Grimestone's</hi> History of Spain.</p>
+               <pb n="3" facs="unknown:001984_0005_0FBA49A3DD0F25E0"/>42 <hi>Grimestone's</hi> History of Spain.</p>
             <p n="43">43 <hi>Goodwin's</hi> Redemption Redeemed.</p>
             <p n="44">44 Dr. <hi>Twisse</hi> of the Riches of GOD's Love unto the Vessels of Mercy, consistent with His Absolute Ha<g ref="char:EOLhyphen"/>tred of the Vessels of Wrath. With other Discourses.</p>
             <p n="45">45 <hi>Calvin's</hi> Institutions. Englished by <hi>T. Norton.</hi>
@@ -280,7 +280,7 @@ Mr. <hi>Daniel Gookin,</hi> Late of <hi>Sherbourn,</hi> Deceas'd.</p>
             <p n="66">66 Herodotus, <hi>in Greek.</hi>
             </p>
             <p n="67">
-               <pb n="4" facs="tcp:0FBA6850378FE468:001984_0006_0FBA49A7E70712D8"/>67 Calvini <hi>Comment. in Acta <abbr>Apost.</abbr> &amp;</hi> Bullingeri <hi>Con<g ref="char:EOLhyphen"/>ciones</hi> 100 <hi>in Apocalypsin.</hi>
+               <pb n="4" facs="unknown:001984_0006_0FBA49A7E70712D8"/>67 Calvini <hi>Comment. in Acta <abbr>Apost.</abbr> &amp;</hi> Bullingeri <hi>Con<g ref="char:EOLhyphen"/>ciones</hi> 100 <hi>in Apocalypsin.</hi>
             </p>
             <p n="68">68 D. Hillarii <hi>Lutubrationes.</hi>
             </p>
@@ -323,7 +323,7 @@ Mr. <hi>Daniel Gookin,</hi> Late of <hi>Sherbourn,</hi> Deceas'd.</p>
             <p n="91">91 The History of <hi>Polybius</hi> translated by <hi>Grimestone,</hi> with the manner of the <hi>Roman</hi> encamping, <hi>gilt and letter'd</hi>
             </p>
             <p n="92">
-               <pb n="5" facs="tcp:0FBA6850378FE468:001984_0007_0FBA49AB9EF241A8"/>92 <hi>Greenwood's</hi> Astronomy.</p>
+               <pb n="5" facs="unknown:001984_0007_0FBA49AB9EF241A8"/>92 <hi>Greenwood's</hi> Astronomy.</p>
             <p n="93">93 <hi>Allen's</hi> Doctrine of the Gospel.</p>
             <p n="94">94 Dr. <hi>Morton's</hi> Catholick Appeal for Protestants.</p>
             <p n="95">95 Dr. <hi>Stillingfleet's</hi> Sermons on Several Occasions.</p>
@@ -365,7 +365,7 @@ Mr. <hi>Daniel Gookin,</hi> Late of <hi>Sherbourn,</hi> Deceas'd.</p>
             </p>
             <p n="117">117 <hi>Brathwait's</hi> English Gentleman, and Gentlewoman. Enlarged. with A <hi>Ladies</hi> Love Lecture, and the Tur<g ref="char:EOLhyphen"/>tles Triumph.</p>
             <p n="118">
-               <pb n="6" facs="tcp:0FBA6850378FE468:001984_0008_0FBA49ADD84BC9A0"/>118 Dr. <hi>Homes'</hi>s Works.</p>
+               <pb n="6" facs="unknown:001984_0008_0FBA49ADD84BC9A0"/>118 Dr. <hi>Homes'</hi>s Works.</p>
             <p n="119">119 <hi>Martin's</hi> History of the Reigns of Twenty <hi>Kings,</hi> from <hi>William</hi> the Conqueror, to <hi>Henry</hi> the Eighth, &amp;c.</p>
             <p n="120">120 B. Theodoreti <hi>Opera Omnia.</hi>
             </p>
@@ -417,7 +417,7 @@ Mr. <hi>Daniel Gookin,</hi> Late of <hi>Sherbourn,</hi> Deceas'd.</p>
             <p n="3">3 ——<hi>Sacrorum Parallelorum, Libri Tres.</hi>
             </p>
             <p n="4">
-               <pb n="7" facs="tcp:0FBA6850378FE468:001984_0009_0FBA49AF269A1480"/>4 <hi>Calvin's</hi> Harmony of the Evangelists, with his Com<g ref="char:EOLhyphen"/>mentary upon <hi>John.</hi> in English.</p>
+               <pb n="7" facs="unknown:001984_0009_0FBA49AF269A1480"/>4 <hi>Calvin's</hi> Harmony of the Evangelists, with his Com<g ref="char:EOLhyphen"/>mentary upon <hi>John.</hi> in English.</p>
             <p n="5">5 <hi>Caryl's</hi> Exposition with practical Observations upon the 1, 2, 3. <abbr>Chap.</abbr> of <hi>Job.</hi>
             </p>
             <p n="6">6 ——Ditto upon the 18, 19, 20, 21. <abbr>Chap.</abbr> of <hi>Job.</hi>
@@ -455,7 +455,7 @@ Mr. <hi>Daniel Gookin,</hi> Late of <hi>Sherbourn,</hi> Deceas'd.</p>
             <p n="28">28 <hi>Cotton's</hi> Bloudy Tenet washed, wherein many Questi<g ref="char:EOLhyphen"/>ons concerning Liberty of Conscience, &amp;c. are discussed.</p>
             <p n="29">29 <hi>Holbrook's</hi> Saint <hi>Paul's</hi> Triumph, &amp;c.</p>
             <p n="30">
-               <pb n="8" facs="tcp:0FBA6850378FE468:001984_0019_0FBA49C66078B2C8"/>30 <hi>Rutherford</hi> of the Covenant of Grace.</p>
+               <pb n="8" facs="unknown:001984_0019_0FBA49C66078B2C8"/>30 <hi>Rutherford</hi> of the Covenant of Grace.</p>
             <p n="31">31 Alvarii <hi>De Institutions Grammatica <abbr>lib.</abbr> tres.</hi>
             </p>
             <p n="32">32 <hi>Clavis Apocalyptica.</hi>
@@ -499,7 +499,7 @@ Mr. <hi>Daniel Gookin,</hi> Late of <hi>Sherbourn,</hi> Deceas'd.</p>
             <p n="57">57 <hi>Brinstey's</hi> True Watch; Or, The Call of the Lord to Speedy Repentance &amp;c. Taken from the IX <abbr>Chap.</abbr> of <hi>Ezekiel.</hi>
             </p>
             <p n="58">
-               <pb n="9" facs="tcp:0FBA6850378FE468:001984_0010_0FBA49B0AA591C38"/>58 An Elegant and Learned Discourse of the Light of Na<g ref="char:EOLhyphen"/>ture, with several other Treatises. By <hi>Nat. Culverwell.</hi>
+               <pb n="9" facs="unknown:001984_0010_0FBA49B0AA591C38"/>58 An Elegant and Learned Discourse of the Light of Na<g ref="char:EOLhyphen"/>ture, with several other Treatises. By <hi>Nat. Culverwell.</hi>
             </p>
             <p n="59">59 Dr. <hi>Preston</hi> of the Divine Essence &amp; Attributes of GOD.</p>
             <p n="60">60 <hi>Caryl's</hi> Exposition with Practical Observations upon the whole Book of <hi>Job,</hi> in 12 <abbr>Vol.</abbr> 
@@ -547,7 +547,7 @@ Mr. <hi>Daniel Gookin,</hi> Late of <hi>Sherbourn,</hi> Deceas'd.</p>
             <p n="85">85 <hi>Taylor's</hi> Exposition with practical Observations upon the Nine first <abbr>Chap.</abbr> of <hi>Proverbs.</hi>
             </p>
             <p n="86">
-               <pb n="10" facs="tcp:0FBA6850378FE468:001984_0011_0FBA49B254AD4A08"/>86 <hi>Oldisworth's</hi> Holy Royalist.</p>
+               <pb n="10" facs="unknown:001984_0011_0FBA49B254AD4A08"/>86 <hi>Oldisworth's</hi> Holy Royalist.</p>
             <p n="87">87 <hi>Burroughs's</hi> Exposition of the Prophecy of <hi>Hosea,</hi> in 4 <abbr>Vol.</abbr>
             </p>
             <p n="88">88 Dr. <hi>Sibbs's</hi> Commentary upon the XIV. <abbr>Chap.</abbr> of <hi>Hosea.</hi> with the Saints Priviledge.</p>
@@ -589,7 +589,7 @@ Mr. <hi>Daniel Gookin,</hi> Late of <hi>Sherbourn,</hi> Deceas'd.</p>
             <p n="111">111 A Collection of divers Excellent Tracts of Dr. <hi>John Lightfoot.</hi>
             </p>
             <p n="112">
-               <pb n="11" facs="tcp:0FBA6850378FE468:001984_0012_0FBA49B483BF59C0"/>112 <hi>Burgess</hi> of Justification, in 2 parts.</p>
+               <pb n="11" facs="unknown:001984_0012_0FBA49B483BF59C0"/>112 <hi>Burgess</hi> of Justification, in 2 parts.</p>
             <p n="113">113 Dr. <hi>Downame's</hi> Lectures on the XV. Psalm.</p>
             <p n="114">114 Aristotelis <hi>de moribus. <abbr>Lib. decem.</abbr>
                </hi>
@@ -634,7 +634,7 @@ Mr. <hi>Daniel Gookin,</hi> Late of <hi>Sherbourn,</hi> Deceas'd.</p>
             <p n="140">140 <hi>Feltham's</hi> Resolves.</p>
          </div>
          <div type="list_of_books">
-            <pb n="12" facs="tcp:0FBA6850378FE468:001984_0013_0FBA49B776F6E858"/>
+            <pb n="12" facs="unknown:001984_0013_0FBA49B776F6E858"/>
             <head>BOOKS in OCTAVO. &amp;c.</head>
             <p n="1">1 A <hi>New-England</hi> Psalm Book.</p>
             <p n="2">2 Dr. <hi>Va<gap reason="illegible: indecipherable" extent="2 letters">
@@ -672,7 +672,7 @@ Mr. <hi>Daniel Gookin,</hi> Late of <hi>Sherbourn,</hi> Deceas'd.</p>
             </p>
             <p n="29">29 Sr. <hi>Henry Blount's</hi> Voyage into the <hi>Levant,</hi> &amp;c.</p>
             <p n="30">
-               <pb n="13" facs="tcp:0FBA6850378FE468:001984_0014_0FBA49B8D2339F48"/>30 <hi>Smith's</hi> History of <hi>Our Saviour,</hi> The <hi>Evangelists,</hi> and <hi>Apostles.</hi>
+               <pb n="13" facs="unknown:001984_0014_0FBA49B8D2339F48"/>30 <hi>Smith's</hi> History of <hi>Our Saviour,</hi> The <hi>Evangelists,</hi> and <hi>Apostles.</hi>
             </p>
             <p n="31">31 Potteri <hi>Theses Quadragefimahes in Scholis Oxonii.</hi>
             </p>
@@ -737,7 +737,7 @@ Mr. <hi>Daniel Gookin,</hi> Late of <hi>Sherbourn,</hi> Deceas'd.</p>
                </hi> and <hi>Indian.</hi>
             </p>
             <p n="62">
-               <pb n="14" facs="tcp:0FBA6850378FE468:001984_0015_0FBA49BE581B2868"/>62 A Pattern of Catechistical Doctrine.</p>
+               <pb n="14" facs="unknown:001984_0015_0FBA49BE581B2868"/>62 A Pattern of Catechistical Doctrine.</p>
             <p n="63">63 <hi>Sedgwick's</hi> Riches of Grace Displayed.</p>
             <p n="64">64 The Repugnancy of Sin to the Principles of Reason.</p>
             <p n="65">65 <abbr>Bp.</abbr> 
@@ -770,7 +770,7 @@ Mr. <hi>Daniel Gookin,</hi> Late of <hi>Sherbourn,</hi> Deceas'd.</p>
             <p n="85">85 <hi>England's</hi> Treasure by Foreign Trade.</p>
             <p n="86">86 <hi>Shepard's</hi> Theses Sabbaticae Or, Doctrine of the <hi>Sabbath.</hi> with a Resolution of divers Select Cases of Conscience.</p>
             <p n="87">
-               <pb n="15" facs="tcp:0FBA6850378FE468:001984_0016_0FBA49C05426E3C8"/>87 <hi>Baxter's</hi> Divine Appointment of the <hi>Lords Day.</hi>
+               <pb n="15" facs="unknown:001984_0016_0FBA49C05426E3C8"/>87 <hi>Baxter's</hi> Divine Appointment of the <hi>Lords Day.</hi>
             </p>
             <p n="88">88 <abbr>Lud.</abbr> Abelli <hi>Medulla Theologica.</hi>
             </p>
@@ -823,7 +823,7 @@ Mr. <hi>Daniel Gookin,</hi> Late of <hi>Sherbourn,</hi> Deceas'd.</p>
             <p n="120">120 ——GODS Soveraignty Displayed. from <hi>Job.</hi> IX. 12. <hi>(written soon after the burning of</hi> London.)</p>
             <p n="121">121 The <hi>Romish</hi> Mass-Book Faithfully translated into <hi>Eng<g ref="char:EOLhyphen"/>lish,</hi> with Notes, and Observations.</p>
             <p n="122">
-               <pb n="16" facs="tcp:0FBA6850378FE468:001984_0017_0FBA49C26F091788"/>122 Mr. <hi>Colman's</hi> Two Discourses, <abbr>Viz.</abbr> Upon <hi>Job</hi> XI. 7, 8, 9. and upon Luke XI. 21, 22. neatly bound up together.</p>
+               <pb n="16" facs="unknown:001984_0017_0FBA49C26F091788"/>122 Mr. <hi>Colman's</hi> Two Discourses, <abbr>Viz.</abbr> Upon <hi>Job</hi> XI. 7, 8, 9. and upon Luke XI. 21, 22. neatly bound up together.</p>
             <p n="123">123 <hi>Fleming</hi> of Faith (in two parts.)</p>
             <p n="124">124 Maschil: Or, the Faithful Instructor. A Work of great Use to <hi>Christian Householders.</hi>
             </p>
@@ -866,7 +866,7 @@ Mr. <hi>Daniel Gookin,</hi> Late of <hi>Sherbourn,</hi> Deceas'd.</p>
             <p n="148">148 <hi>Lee's</hi> Triumph of Mercy in the Chariot of Praise.</p>
             <p n="149">149 <hi>Blake's</hi> Ebenezer: Or, Profitable Truths after Pesti<g ref="char:EOLhyphen"/>lential Times.</p>
             <p n="150">
-               <pb n="17" facs="tcp:0FBA6850378FE468:001984_0018_0FBA49C432132EF0"/>150 <hi>Despagne</hi> upon the Creed, and the Lords Prayer &amp;c.</p>
+               <pb n="17" facs="unknown:001984_0018_0FBA49C432132EF0"/>150 <hi>Despagne</hi> upon the Creed, and the Lords Prayer &amp;c.</p>
             <p n="151">151 <hi>Garbutt's</hi> Demonstration of the Resurrection of <hi>JESUS CHRIST. &amp;c.</hi>
             </p>
             <p n="152">152 A Collection of Several Treatises, <abbr>viz.</abbr> The Christi<g ref="char:EOLhyphen"/>an Conventicle &amp;c.</p>
@@ -903,7 +903,7 @@ Mr. <hi>Daniel Gookin,</hi> Late of <hi>Sherbourn,</hi> Deceas'd.</p>
             <p n="175">175 Dr. <hi>Owen's</hi> Truth and Innocency Vindicated: In a Survey of a Discourse of <hi>Ecclesiastical Polity.</hi>
             </p>
             <p n="176">
-               <pb n="18" facs="tcp:0FBA6850378FE468:001984_0020_0FBA49C7CA05F2D0"/>176 <hi>Wither's</hi> Fides Anglicana: Or, a Plea for the Pub<g ref="char:EOLhyphen"/>lick Faith of the <hi>British</hi> Nations.</p>
+               <pb n="18" facs="unknown:001984_0020_0FBA49C7CA05F2D0"/>176 <hi>Wither's</hi> Fides Anglicana: Or, a Plea for the Pub<g ref="char:EOLhyphen"/>lick Faith of the <hi>British</hi> Nations.</p>
             <p n="177">177 <abbr>Bp.</abbr> 
                <hi>Wilkin's</hi> of Prayer and Preaching. <hi>(gilt and letter'd.)</hi>
             </p>
@@ -952,7 +952,7 @@ Mr. <hi>Daniel Gookin,</hi> Late of <hi>Sherbourn,</hi> Deceas'd.</p>
             <p n="199">199 The <hi>Anabaptists</hi> Anatomized, and Silenced in a Pub<g ref="char:EOLhyphen"/>lick Dispute.</p>
             <p n="200">200 The Wars of <hi>England, Scotland</hi> and <hi>Ireland</hi> &amp;c. with cuts.</p>
             <p n="201">
-               <pb n="19" facs="tcp:0FBA6850378FE468:001984_0021_0FBA49C961A6D288"/>201 <hi>Woodrosse's</hi> Treatise upon <hi>Simeon's Song.</hi>
+               <pb n="19" facs="unknown:001984_0021_0FBA49C961A6D288"/>201 <hi>Woodrosse's</hi> Treatise upon <hi>Simeon's Song.</hi>
             </p>
             <p n="202">202 Mr. <hi>Willard's</hi> Childs Portion. Upon I. <hi>John, 3. 2.</hi>
             </p>
@@ -999,7 +999,7 @@ Mr. <hi>Daniel Gookin,</hi> Late of <hi>Sherbourn,</hi> Deceas'd.</p>
             <p n="228">228 Posselii <hi>Calligraphia <abbr>Orat.</abbr> Linguae Grecae.</hi>
             </p>
             <p n="229">
-               <pb n="20" facs="tcp:0FBA6850378FE468:001984_0022_0FBA49CAD801ACF8"/>229 Buxtorsi <hi>
+               <pb n="20" facs="unknown:001984_0022_0FBA49CAD801ACF8"/>229 Buxtorsi <hi>
                   <abbr>Epit. Gram. Heb.</abbr>
                </hi>
             </p>
@@ -1056,7 +1056,7 @@ Mr. <hi>Daniel Gookin,</hi> Late of <hi>Sherbourn,</hi> Deceas'd.</p>
             <p n="256">256 <hi>Gearing</hi> of GOD's Soveraignty.</p>
             <p n="257">257 A Treasury for Dealers.</p>
             <p n="258">
-               <pb n="21" facs="tcp:0FBA6850378FE468:001984_0023_0FBA49EAAEF5A6F8"/>258 Dr. <hi>Owen's</hi> Humble Testimony unto the <hi>Goodness</hi> and <hi>Severity</hi> of GOD. upon <abbr>Luk.</abbr> XIII. 1—5.</p>
+               <pb n="21" facs="unknown:001984_0023_0FBA49EAAEF5A6F8"/>258 Dr. <hi>Owen's</hi> Humble Testimony unto the <hi>Goodness</hi> and <hi>Severity</hi> of GOD. upon <abbr>Luk.</abbr> XIII. 1—5.</p>
             <p n="259">259 <hi>Bailey's</hi> Mans Chief End.</p>
             <p n="260">260 The Holy BIBLE.</p>
             <p n="261">261 Mr. <hi>Wise's</hi> Churches Quarrel Espoused.</p>
@@ -1098,7 +1098,7 @@ Mr. <hi>Daniel Gookin,</hi> Late of <hi>Sherbourn,</hi> Deceas'd.</p>
             <p n="286">286 Alstedii <hi>Legica System. Harmonicum.</hi>
             </p>
             <p n="287">
-               <pb n="22" facs="tcp:0FBA6850378FE468:001984_0024_0FBA49ECE26F1FE0"/>287 Brightmanni <hi>Comment. in Cantica Canticorum &amp;c.</hi>
+               <pb n="22" facs="unknown:001984_0024_0FBA49ECE26F1FE0"/>287 Brightmanni <hi>Comment. in Cantica Canticorum &amp;c.</hi>
             </p>
             <p n="288">288 Amesii <hi>Coronis.</hi>
             </p>
@@ -1134,7 +1134,7 @@ Mr. <hi>Daniel Gookin,</hi> Late of <hi>Sherbourn,</hi> Deceas'd.</p>
             <p n="312">312 <hi>Clarkson</hi> of Saving Grace.</p>
             <p n="313">313 Dr. <hi>Owen</hi> of the Sabbath.</p>
             <p n="314">
-               <pb n="23" facs="tcp:0FBA6850378FE468:001984_0025_0FBA49EE0FA12CC8"/>314 Mr. <hi>James Nalton's</hi> Twenty Sermons upon Several Texts. With Mr. <hi>Matt. Poole's</hi> Epistle and the Au<g ref="char:EOLhyphen"/>thors Effigies.</p>
+               <pb n="23" facs="unknown:001984_0025_0FBA49EE0FA12CC8"/>314 Mr. <hi>James Nalton's</hi> Twenty Sermons upon Several Texts. With Mr. <hi>Matt. Poole's</hi> Epistle and the Au<g ref="char:EOLhyphen"/>thors Effigies.</p>
             <p n="315">315 <hi>Charnock's</hi> Two Discourses. Of Man's Enmity to GOD; And of the Salvation of Sinners.</p>
             <p n="316">316 <abbr>Bp.</abbr> 
                <hi>Wilkins</hi> of Prayer and Preaching,</p>
@@ -1180,7 +1180,7 @@ Mr. <hi>Daniel Gookin,</hi> Late of <hi>Sherbourn,</hi> Deceas'd.</p>
             </p>
             <p n="340">340 An Account of New Inventions and Improvements necessity for England. by way of letter to the Duke of Marlborough</p>
             <p n="341">
-               <pb n="24" facs="tcp:0FBA6850378FE468:001984_0026_0FBA49EFAC327400"/>341 The <hi>British</hi> Language in its Lustre: Or, a Copious Dictionary <hi>Welsh</hi> and <hi>English.</hi>
+               <pb n="24" facs="unknown:001984_0026_0FBA49EFAC327400"/>341 The <hi>British</hi> Language in its Lustre: Or, a Copious Dictionary <hi>Welsh</hi> and <hi>English.</hi>
             </p>
             <p n="342">342 <hi>Cocker's</hi> Arithmetick.</p>
             <p n="343">343 <hi>Durbam's</hi> Exposition of the <hi>Ten Commandments.</hi> with the Resolution of Several Momentous Cases of Conscience.</p>
@@ -1235,7 +1235,7 @@ Mr. <hi>Daniel Gookin,</hi> Late of <hi>Sherbourn,</hi> Deceas'd.</p>
             <p n="373">373 <hi>Lye's</hi> Childs Delight. With an English Grammar.</p>
             <p n="374">374 Dr. <hi>Cappel's</hi> Hinge of Faith and Religion.</p>
             <p n="375">
-               <pb n="25" facs="tcp:0FBA6850378FE468:001984_0027_0FBA49F11733C608"/>375 <hi>Caryl</hi> of the Nature and Principles of Love. With an Epistle by Dr. <hi>Owen,</hi> and the Authors Effigies.</p>
+               <pb n="25" facs="unknown:001984_0027_0FBA49F11733C608"/>375 <hi>Caryl</hi> of the Nature and Principles of Love. With an Epistle by Dr. <hi>Owen,</hi> and the Authors Effigies.</p>
             <p n="376">376 <hi>Englands</hi> Vanity: Or, The Voice of GOD against the Monstrous Sin of Pride in Dress and Apparel.</p>
             <p n="377">377 <hi>W. Allen's</hi> Perswasive to Peace and Unity among Christians.</p>
             <p n="378">378 <hi>Nesse's</hi> Christians Walk and Work on Earth, until he attain to Heaven.</p>
@@ -1278,7 +1278,7 @@ Mr. <hi>Daniel Gookin,</hi> Late of <hi>Sherbourn,</hi> Deceas'd.</p>
             <p n="401">401 Fustachii <hi>Philiseph.</hi>
             </p>
             <p n="402">
-               <pb n="26" facs="tcp:0FBA6850378FE468:001984_0028_0FBA49F4147C1460"/>402 Keckermani <hi>
+               <pb n="26" facs="unknown:001984_0028_0FBA49F4147C1460"/>402 Keckermani <hi>
                   <abbr>Disput.</abbr> Philosoph.</hi>
             </p>
             <p n="403">403 Aretii <hi>Comment. in Acta.</hi>
